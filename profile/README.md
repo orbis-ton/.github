@@ -24,6 +24,6 @@ More utilities for the **ORB** token are planned in future phases of the project
 - 💬 Telegram RU: [@orbis_channel](https://t.me/orbis_channel)
 - 💬 Telegram EN: [@channel_orbis](https://t.me/channel_orbis)
 - 🔗 𝕏 (Twitter) [@blockchainorbis](https://x.com/blockchainorbis)
-- 🪙 ORBcoin (**ORB**): [EQCjJox4acmu7UGD19RSOdym8aXxdXyXzKeSq5VR6gNqI6k4](https://tonviewer.com/EQCjJox4acmu7UGD19RSOdym8aXxdXyXzKeSq5VR6gNqI6k4)  
+- 🪙 ORBcoin (ORB): [EQCjJox4acmu7UGD19RSOdym8aXxdXyXzKeSq5VR6gNqI6k4](https://tonviewer.com/EQCjJox4acmu7UGD19RSOdym8aXxdXyXzKeSq5VR6gNqI6k4)  
 - 🎨 OM NFT Collection: [getgems.io/collection/EQA99W9EfL9WnekqxH5AKKE5LjnwHraud3IjAt4xeWAJEZix](https://getgems.io/collection/EQA99W9EfL9WnekqxH5AKKE5LjnwHraud3IjAt4xeWAJEZix)  
 - 📜 Distribution Contract: [tonviewer.com/address/EQCto1TgtdVY_ehQofMPcpUzo0HREUU_zWGFpxX_RIeQKswH](https://tonviewer.com/address/EQCto1TgtdVY_ehQofMPcpUzo0HREUU_zWGFpxX_RIeQKswH)
