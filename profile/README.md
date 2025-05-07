@@ -3,8 +3,8 @@
 ![photo_2025-04-12 10 06 36](https://github.com/user-attachments/assets/bfd1e987-986d-4746-9802-67f2623b31e6)
 
 
-**Orbis** is a project on the TON blockchain featuring a utility token (**ORB**) and an NFT collection.  
-Each NFT represents a holder’s share in the weekly distribution of ORB tokens.
+**Orbis** is a project on the TON blockchain featuring a utility token (**ORB**) and an OM NFT collection.  
+Each OM NFT represents a holder’s share in the weekly distribution of ORB tokens.
 
 The total supply is fixed at **42,000,000 ORB**.  
 Every week, **0.314%** of the remaining undistributed supply is **evenly distributed** across all NFTs.  
