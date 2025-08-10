@@ -4,7 +4,7 @@
 
   ```curl
   curl -X 'GET' \
-  'https://tonapi.io/v2/blockchain/accounts/EQAW7leUiBZs6OoLoWO1YoviLyAOkRQAe1ZGMBjv8QtXZU_3/methods/get_giver_data' \
+  'https://tonapi.io/v2/blockchain/accounts/EQBqbvsNBEQ-ukJ89JmQA7URC1R3Xqu4aSVlC1LSRHmHHrxv/methods/get_giver_data' \
   -H 'accept: application/json'
   ```
 
@@ -77,7 +77,7 @@ where:
 
 ```curl
 curl -X 'GET' \
-  'https://tonapi.io/v2/accounts/EQAW7leUiBZs6OoLoWO1YoviLyAOkRQAe1ZGMBjv8QtXZU_3/jettons/EQByqBGqyDy1MsJi-we7a18xqRFxaXlDWkrW0ukrz-6XKPwd' \
+  'https://tonapi.io/v2/accounts/EQBqbvsNBEQ-ukJ89JmQA7URC1R3Xqu4aSVlC1LSRHmHHrxv/jettons/EQAeDZuQfrieyVaWQzX0sAackNcCjmmp-Yf6nrr1KwpR3JYg' \
   -H 'accept: application/json'
 ```
 
